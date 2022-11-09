@@ -24,6 +24,11 @@ sites:
   - name: SNB API
     url: https://career.alahlicapital.com/api/health-check
     icon: https://career.alahlicapital.com/api/files?fileKey=65291_NCB2014-IOS7-MobileApp-58x58.png
+  - name: Flynas
+    url: https://career.flynas.com/
+    icon: https://career.flynas.com/api/files?fileKey=7905563_favicon.png
+    
+    
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
