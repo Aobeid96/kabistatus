@@ -103,11 +103,11 @@ sites:
     url: https://domty.hyrddbh.com/api/health-check
     icon: https://domty.hyrddbh.com/api/files?fileKey=9162014_favicon.ico
   - name: nits
-    url: https://ntis.hyrddsa.com/
-    icon: 
+    url: https://career.ntis.com.sa/
+    icon: https://career.ntis.com.sa/api/files?fileKey=7104356_fac%20NTIS.png
   - name: nits API
-    url: https://ntis.hyrddsa.com/api/health-check
-    icon:
+    url: https://career.ntis.com.sa/api/health-check
+    icon: https://career.ntis.com.sa/api/files?fileKey=7104356_fac%20NTIS.png
   - name: taqa
     url: https://taqa.hyrddsa.com/
     icon: 
