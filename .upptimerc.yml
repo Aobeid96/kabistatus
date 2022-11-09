@@ -12,7 +12,7 @@ sites:
     icon: https://careers.coolinc.com.sa/api/files?fileKey=4074801_favicon%20(2).ico
   - name: Coolinc Staging
     url: https://coolinc.staging.hyrdd.io/
-
+#
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
