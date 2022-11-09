@@ -48,6 +48,12 @@ sites:
   - name: FTA API
     url: https://career.fta.prod.hyrdd.io/api/health-check
     icon: https://career.fta.prod.hyrdd.io/api/files?fileKey=3026925_Group 33957.png
+  - name: Ghadeer
+    url: https://ghadeer.tech/
+    icon: https://ghadeer.tech/api/files?fileKey=9902245_fav-ghadeer.png
+  - name: Ghadeer API
+    url: https://ghadeer.tech/api/health-check
+    icon: https://ghadeer.tech/api/files?fileKey=9902245_fav-ghadeer.png
     
     
     
