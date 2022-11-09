@@ -168,6 +168,13 @@ sites:
   - name: SCISP API
     url: https://careers.scisp.gov.sa/api/health-check
     icon: https://careers.scisp.gov.sa/api/files?fileKey=1012024_favicon%20scisp.png
+  - name: tdf
+    url: https://career.tdf.gov.sa/
+    icon: https://career.tdf.gov.sa/api/files?fileKey=593220_favico.png
+  - name: tdf API
+    url: https://career.tdf.gov.sa/api/health-check
+    icon: https://career.tdf.gov.sa/api/files?fileKey=593220_favico.png
+    
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
