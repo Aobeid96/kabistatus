@@ -197,6 +197,6 @@ status-website:
   introTitle: "Live System status"
   navbar:
     - title: Status
-      href: /
+      href: /kabistatus
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
