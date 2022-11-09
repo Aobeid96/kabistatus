@@ -144,6 +144,12 @@ sites:
   - name: tabukpharmaceuticals API
     url: https://tabukpharmaceuticals.hyrddsa.com/api/health-check
     icon: https://tabukpharmaceuticals.hyrddsa.com/api/files?fileKey=4641640_favicon.png
+  - name: Riyadhcluster
+    url: https://careers.rfhc.gov.sa/
+    icon: https://careers.rfhc.gov.sa/api/files?fileKey=8469213_favicon.png
+  - name: Riyadhcluster API
+    url: https://careers.rfhc.gov.sa/api/health-check
+    icon: https://careers.rfhc.gov.sa/api/files?fileKey=8469213_favicon.png
     
 #
 status-website:
