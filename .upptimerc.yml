@@ -54,7 +54,12 @@ sites:
   - name: Ghadeer API
     url: https://ghadeer.tech/api/health-check
     icon: https://ghadeer.tech/api/files?fileKey=9902245_fav-ghadeer.png
-    
+  - name: Marakez
+    url: https://careers.marakez.net/
+    icon: https://careers.marakez.net/api/files?fileKey=2147340_favico.png
+  - name: Marakez API
+    url: https://careers.marakez.net/api/health-check
+    icon: https://careers.marakez.net/api/files?fileKey=2147340_favico.png
     
     
 #
