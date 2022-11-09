@@ -192,6 +192,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kabi.ai
+  name: Status
   logoUrl: https://kabi.ai/images/kabi-home/logo.svg
   favicon: https://career.kabi.jeddah.hyrdd.io/api/files?fileKey=4960415_favicon.ico
   theme: night
