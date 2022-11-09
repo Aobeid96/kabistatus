@@ -12,6 +12,9 @@ sites:
     icon: https://careers.coolinc.com.sa/api/files?fileKey=4074801_favicon%20(2).ico
   - name: Coolinc Staging
     url: https://coolinc.staging.hyrdd.io/
+  - name: Coolinc API
+    url: https://careers.coolinc.com.sa/api/health-check
+    icon: https://careers.coolinc.com.sa/api/files?fileKey=4074801_favicon%20(2).ico
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
