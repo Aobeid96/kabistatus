@@ -174,7 +174,12 @@ sites:
   - name: tdf API
     url: https://career.tdf.gov.sa/api/health-check
     icon: https://career.tdf.gov.sa/api/files?fileKey=593220_favico.png
-    
+  - name: tadawul
+    url: https://tadawul.hyrddsa.com/
+    icon: https://tadawul.hyrddsa.com/api/files?fileKey=6418735_favicon.ico
+  - name: tadawul API
+    url: https://tadawul.hyrddsa.com/api/health-check
+    icon: https://tadawul.hyrddsa.com/api/files?fileKey=6418735_favicon.ico
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
