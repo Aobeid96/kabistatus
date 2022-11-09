@@ -96,6 +96,12 @@ sites:
   - name: Esnadalriyadm API
     url: https://esnadalriyadm.hyrddsa.com/api/health-check
     icon: https://esnadalriyadm.hyrddsa.com/api/files?fileKey=9610987_favicon%20(1).png
+  - name: domty
+    url: https://domty.hyrddbh.com/
+    icon: https://domty.hyrddbh.com/api/files?fileKey=9162014_favicon.ico
+  - name: domty API
+    url: https://domty.hyrddbh.com/api/health-check
+    icon: https://domty.hyrddbh.com/api/files?fileKey=9162014_favicon.ico
     
     
 #
