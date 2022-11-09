@@ -196,10 +196,9 @@ status-website:
   favicon: https://career.kabi.jeddah.hyrdd.io/api/files?fileKey=4960415_favicon.ico
   theme: night
   #baseUrl: /kabistatus
-  name: <h1>Systems Status</h1>
   introTitle: "Live System status"
   navbar:
     - title: Status
-      href: /kabistatus
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
