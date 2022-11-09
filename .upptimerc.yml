@@ -66,6 +66,13 @@ sites:
   - name: MLS API
     url: https://careers.mls-egypt.org/api/health-check
     icon: https://careers.mls-egypt.org/api/files?fileKey=236157_logo-mls.png
+  - name: Estiqtab
+    url: https://estiqtab.hyrddbh.com/
+    icon: https://estiqtab.hyrddbh.com/api/files?fileKey=3010465_uae-logo.jpeg
+  - name: Estiqtab API
+    url: https://estiqtab.hyrddbh.com/api/health-check
+    icon: https://estiqtab.hyrddbh.com/api/files?fileKey=3010465_uae-logo.jpeg
+    
     
 #
 status-website:
