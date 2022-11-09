@@ -27,6 +27,9 @@ sites:
   - name: Flynas
     url: https://career.flynas.com/
     icon: https://career.flynas.com/api/files?fileKey=7905563_favicon.png
+  - name: Flynas API
+    url: https://career.flynas.com/api/health-check
+    icon: https://career.flynas.com/api/files?fileKey=7905563_favicon.png
     
     
 #
