@@ -102,6 +102,12 @@ sites:
   - name: domty API
     url: https://domty.hyrddbh.com/api/health-check
     icon: https://domty.hyrddbh.com/api/files?fileKey=9162014_favicon.ico
+  - name: nits
+    url: https://ntis.hyrddsa.com/
+    icon: 
+  - name: nits API
+    url: https://ntis.hyrddsa.com/api/health-check
+    icon: 
     
     
 #
