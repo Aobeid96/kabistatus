@@ -132,6 +132,12 @@ sites:
   - name: rio API
     url: https://rio.hyrdd.io/api/health-check
     icon: https://rio.hyrdd.io/api/files?fileKey=645986_favicon.ico
+  - name: berlin
+    url: https://berlin.hyrdd.io/
+    icon: https://berlin.hyrdd.io/api/files?fileKey=1677195_favicon.ico
+  - name: berlin API
+    url: https://rio.hyrdd.io/api/health-check
+    icon: https://berlin.hyrdd.io/api/files?fileKey=1677195_favicon.ico
     
 #
 status-website:
