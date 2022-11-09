@@ -8,6 +8,10 @@ sites:
     icon: https://careers-impact.neom.com/api/files/download_file/settings/favicon/1/settings/favicon?1615276233
   - name: Samsung
     url: https://careers.samsungengineering-mena.com/
+    icon: https://careers.samsungengineering-mena.com/api/files?fileKey=8857703_coucoucouc.JPG
+  - name: Samsung API
+    url: https://careers.samsungengineering-mena.com/api/health-check
+    icon: https://careers.samsungengineering-mena.com/api/files?fileKey=8857703_coucoucouc.JPG
   - name: Coolinc
     url: https://careers.coolinc.com.sa/
     icon: https://careers.coolinc.com.sa/api/files?fileKey=4074801_favicon%20(2).ico
