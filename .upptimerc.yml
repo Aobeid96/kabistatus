@@ -180,6 +180,13 @@ sites:
   - name: tadawul API
     url: https://tadawul.hyrddsa.com/api/health-check
     icon: https://tadawul.hyrddsa.com/api/files?fileKey=6418735_favicon.ico
+  - name: SPARK
+    url: https://career.spark.sa/
+    icon: https://career.spark.sa/api/files?fileKey=2709238_logo-lan.png
+  - name: SPARK API
+    url: https://career.spark.sa/api/health-check
+    icon: https://career.spark.sa/api/files?fileKey=2709238_logo-lan.png
+    
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
