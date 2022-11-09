@@ -90,6 +90,12 @@ sites:
   - name: Jacrijkm API
     url: https://careers.jacrijk-alrushaid.com/api/health-check
     icon: https://careers.jacrijk-alrushaid.com/api/files?fileKey=4907413_logo%20jack%20rick.png
+  - name: Esnadalriyadm
+    url: https://esnadalriyadm.hyrddsa.com/
+    icon: https://esnadalriyadm.hyrddsa.com/api/files?fileKey=9610987_favicon%20(1).png
+   - name: Esnadalriyadm API
+    url: https://esnadalriyadm.hyrddsa.com/api/health-check
+    icon: https://esnadalriyadm.hyrddsa.com/api/files?fileKey=9610987_favicon%20(1).png
     
     
 #
