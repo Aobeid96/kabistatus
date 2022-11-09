@@ -599,18 +599,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ntis.hyrddsa.com.ico",
     "slug": "nits",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
     "time": 587,
     "timeDay": 587,
     "timeWeek": 587,
     "timeMonth": 587,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-11-09": 7
+      "2022-11-09": 8
     }
   },
   {
@@ -619,18 +619,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ntis.hyrddsa.com.ico",
     "slug": "nits-api",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 179,
     "timeDay": 179,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-11-09": 7
+      "2022-11-09": 8
     }
   },
   {
