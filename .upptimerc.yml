@@ -156,6 +156,12 @@ sites:
   - name: thiqah API
     url: https://careers.thiqah.sa/api/health-check
     icon: https://careers.thiqah.sa/api/files?fileKey=6757047_fav-tahq.png
+  - name: tharwah
+    url: https://careers.tharwah.net/
+    icon: https://careers.tharwah.net/api/files?fileKey=1969854_62519a_76dcdff6c2af4e90b3582edf84250cfd_mv2.png
+  - name: tharwah API
+    url: https://careers.tharwah.net/api/health-check
+    icon: https://careers.tharwah.net/api/files?fileKey=1969854_62519a_76dcdff6c2af4e90b3582edf84250cfd_mv2.png
     
 #
 status-website:
