@@ -78,6 +78,12 @@ sites:
   - name: WizHRD API
     url: https://jobs.wizhrd.co/api/health-check
     icon: https://jobs.wizhrd.co/api/files?fileKey=7383629_favico.png
+  - name: ARO
+    url: https://career.aro.jeddah.hyrdd.io/
+    icon: https://career.aro.jeddah.hyrdd.io/api/files?fileKey=1502401_favicon.png
+  - name: ARO API
+    url: https://career.aro.jeddah.hyrdd.io/api/health-check
+    icon: https://career.aro.jeddah.hyrdd.io/api/files?fileKey=1502401_favicon.png
     
     
 #
