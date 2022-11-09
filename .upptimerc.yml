@@ -5,6 +5,7 @@ repo: kabistatus # The name of this repository
 sites:
   - name: Neom
     url: https://careers-impact.neom.com/
+    icon: https://careers-impact.neom.com/api/files/download_file/settings/favicon/1/settings/favicon?1615276233
   - name: Samsung
     url: https://careers.samsungengineering-mena.com/
   - name: Coolinc
