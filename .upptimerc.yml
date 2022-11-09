@@ -84,6 +84,12 @@ sites:
   - name: ARO API
     url: https://career.aro.jeddah.hyrdd.io/api/health-check
     icon: https://career.aro.jeddah.hyrdd.io/api/files?fileKey=1502401_favicon.png
+  - name: Jacrijkm
+    url: https://careers.jacrijk-alrushaid.com/
+    icon: https://careers.jacrijk-alrushaid.com/api/files?fileKey=4907413_logo%20jack%20rick.png
+  - name: Jacrijkm API
+    url: https://careers.jacrijk-alrushaid.com/api/health-check
+    icon: https://careers.jacrijk-alrushaid.com/api/files?fileKey=4907413_logo%20jack%20rick.png
     
     
 #
