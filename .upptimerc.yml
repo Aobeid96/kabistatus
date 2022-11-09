@@ -114,12 +114,12 @@ sites:
   - name: taqa API
     url: https://taqa.hyrddsa.com/api/health-check
     icon: 
-  - name: london
-    url: https://london.hyrdd.io/
-    icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
-  - name: london API
-    url: https://london.hyrdd.io/api/health-check
-    icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
+  - name: Ejada
+    url: https://ejada.hyrddbh.com/
+    icon: https://ejada.hyrddbh.com/api/files?fileKey=4413019_favicon%20(3).ico
+  - name: Ejada API
+    url: https://ejada.hyrddbh.com/api/health-check
+    icon: https://ejada.hyrddbh.com/api/files?fileKey=4413019_favicon%20(3).ico
   - name: tokyo
     url: https://tokyo.hyrdd.io/
     icon: https://tokyo.hyrdd.io/api/files?fileKey=1677195_favicon.ico
