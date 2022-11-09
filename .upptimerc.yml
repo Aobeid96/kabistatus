@@ -9,6 +9,7 @@ sites:
     url: https://careers.samsungengineering-mena.com/
   - name: Coolinc
     url: https://careers.coolinc.com.sa/
+    icon: https://careers.coolinc.com.sa/api/files?fileKey=4074801_favicon%20(2).ico
   - name: Coolinc Staging
     url: https://coolinc.staging.hyrdd.io/
 
