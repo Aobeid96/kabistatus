@@ -107,7 +107,19 @@ sites:
     icon: 
   - name: nits API
     url: https://ntis.hyrddsa.com/api/health-check
+    icon:
+  - name: taqa
+    url: https://taqa.hyrddsa.com/
     icon: 
+  - name: taqa API
+    url: https://taqa.hyrddsa.com/api/health-check
+    icon: 
+  - name: london
+    url: https://london.hyrdd.io/
+    icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
+  - name: london API
+    url: https://london.hyrdd.io/api/health-check
+    icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
     
     
 #
