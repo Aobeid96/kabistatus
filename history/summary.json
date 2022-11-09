@@ -23,19 +23,17 @@
     "icon": "https://careers.samsungengineering-mena.com/api/files?fileKey=8857703_coucoucouc.JPG",
     "slug": "samsung",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 974,
     "timeDay": 974,
     "timeWeek": 974,
     "timeMonth": 974,
     "timeYear": 974,
-    "dailyMinutesDown": {
-      "2022-11-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Samsung API",
