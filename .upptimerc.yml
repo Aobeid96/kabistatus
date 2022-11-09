@@ -42,6 +42,12 @@ sites:
   - name: alssef API
     url: https://careers.alseef-hospital.com/api/health-check
     icon: https://careers.alseef-hospital.com/api/files?fileKey=3502529_favicon.png
+  - name: FTA 
+    url: https://career.fta.prod.hyrdd.io/
+    icon: https://career.fta.prod.hyrdd.io/api/files?fileKey=3026925_Group 33957.png
+  - name: FTA API
+    url: https://career.fta.prod.hyrdd.io/api/health-check
+    icon: https://career.fta.prod.hyrdd.io/api/files?fileKey=3026925_Group 33957.png
     
     
     
