@@ -120,7 +120,12 @@ sites:
   - name: london API
     url: https://london.hyrdd.io/api/health-check
     icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
-    
+  - name: tokyo
+    url: https://tokyo.hyrdd.io/
+    icon: https://tokyo.hyrdd.io/api/files?fileKey=1677195_favicon.ico
+  - name: tokyo API
+    url: https://tokyo.hyrdd.io/api/health-check
+    icon: https://tokyo.hyrdd.io/api/files?fileKey=1677195_favicon.ico
     
 #
 status-website:
