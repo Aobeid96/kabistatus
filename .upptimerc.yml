@@ -72,6 +72,12 @@ sites:
   - name: Estiqtab API
     url: https://estiqtab.hyrddbh.com/api/health-check
     icon: https://estiqtab.hyrddbh.com/api/files?fileKey=3010465_uae-logo.jpeg
+  - name: WizHRD
+    url: https://jobs.wizhrd.co/
+    icon: https://jobs.wizhrd.co/api/files?fileKey=7383629_favico.png
+  - name: WizHRD API
+    url: https://jobs.wizhrd.co/api/health-check
+    icon: https://jobs.wizhrd.co/api/files?fileKey=7383629_favico.png
     
     
 #
