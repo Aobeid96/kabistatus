@@ -36,6 +36,12 @@ sites:
   - name: MOS API
     url: https://career.mos.gov.sa/api/health-check
     icon: https://career.mos.gov.sa/api/files?fileKey=7826143_favicon.png
+  - name: alssef
+    url: https://careers.alseef-hospital.com/
+    icon: https://careers.alseef-hospital.com/api/files?fileKey=3502529_favicon.png
+  - name: alssef API
+    url: https://careers.alseef-hospital.com/api/health-check
+    icon: https://careers.alseef-hospital.com/api/files?fileKey=3502529_favicon.png
     
     
     
