@@ -126,6 +126,12 @@ sites:
   - name: tokyo API
     url: https://tokyo.hyrdd.io/api/health-check
     icon: https://tokyo.hyrdd.io/api/files?fileKey=1677195_favicon.ico
+  - name: rio
+    url: https://rio.hyrdd.io/
+    icon: https://rio.hyrdd.io/api/files?fileKey=645986_favicon.ico
+  - name: rio API
+    url: https://rio.hyrdd.io/api/health-check
+    icon: https://rio.hyrdd.io/api/files?fileKey=645986_favicon.ico
     
 #
 status-website:
