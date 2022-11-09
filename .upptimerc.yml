@@ -30,6 +30,13 @@ sites:
   - name: Flynas API
     url: https://career.flynas.com/api/health-check
     icon: https://career.flynas.com/api/files?fileKey=7905563_favicon.png
+  - name: MOS
+    url: https://career.mos.gov.sa/
+    icon: https://career.mos.gov.sa/api/files?fileKey=7826143_favicon.png
+  - name: MOS API
+    url: https://career.mos.gov.sa/api/health-check
+    icon: https://career.mos.gov.sa/api/files?fileKey=7826143_favicon.png
+    
     
     
 #
