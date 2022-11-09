@@ -60,7 +60,12 @@ sites:
   - name: Marakez API
     url: https://careers.marakez.net/api/health-check
     icon: https://careers.marakez.net/api/files?fileKey=2147340_favico.png
-    
+  - name: MLS
+    url: https://careers.mls-egypt.org/
+    icon: https://careers.mls-egypt.org/api/files?fileKey=236157_logo-mls.png
+  - name: MLS API
+    url: https://careers.mls-egypt.org/api/health-check
+    icon: https://careers.mls-egypt.org/api/files?fileKey=236157_logo-mls.png
     
 #
 status-website:
