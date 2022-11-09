@@ -138,6 +138,12 @@ sites:
   - name: berlin API
     url: https://rio.hyrdd.io/api/health-check
     icon: https://berlin.hyrdd.io/api/files?fileKey=1677195_favicon.ico
+  - name: tabukpharmaceuticals
+    url: https://tabukpharmaceuticals.hyrddsa.com/
+    icon: https://tabukpharmaceuticals.hyrddsa.com/api/files?fileKey=4641640_favicon.png
+  - name: tabukpharmaceuticals API
+    url: https://tabukpharmaceuticals.hyrddsa.com/api/health-check
+    icon: https://tabukpharmaceuticals.hyrddsa.com/api/files?fileKey=4641640_favicon.png
     
 #
 status-website:
