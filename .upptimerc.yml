@@ -36,18 +36,18 @@ sites:
   - name: MOS API
     url: https://career.mos.gov.sa/api/health-check
     icon: https://career.mos.gov.sa/api/files?fileKey=7826143_favicon.png
-  - name: alssef
+  - name: Alssef
     url: https://careers.alseef-hospital.com/
     icon: https://careers.alseef-hospital.com/api/files?fileKey=3502529_favicon.png
-  - name: alssef API
+  - name: Alssef API
     url: https://careers.alseef-hospital.com/api/health-check
     icon: https://careers.alseef-hospital.com/api/files?fileKey=3502529_favicon.png
-  - name: FTA 
-    url: https://career.fta.prod.hyrdd.io/
-    icon: https://career.fta.prod.hyrdd.io/api/files?fileKey=3026925_Group 33957.png
+  - name: FTA
+    url: https://fta.federaljobs.gov.ae/
+    icon: https://fta.federaljobs.gov.ae/api/files?fileKey=2456650_bd68e7e9-a85f-48f2-aa4e-e381e88cd46a.png
   - name: FTA API
-    url: https://career.fta.prod.hyrdd.io/api/health-check
-    icon: https://career.fta.prod.hyrdd.io/api/files?fileKey=3026925_Group 33957.png
+    url: https://fta.federaljobs.gov.ae/api/health-check
+    icon: https://fta.federaljobs.gov.ae/api/files?fileKey=2456650_bd68e7e9-a85f-48f2-aa4e-e381e88cd46a.png
   - name: Ghadeer
     url: https://ghadeer.tech/
     icon: https://ghadeer.tech/api/files?fileKey=9902245_fav-ghadeer.png
@@ -66,12 +66,18 @@ sites:
   - name: MLS API
     url: https://careers.mls-egypt.org/api/health-check
     icon: https://careers.mls-egypt.org/api/files?fileKey=236157_logo-mls.png
-  - name: Estiqtab
+  - name: Estiqtab Cluster
     url: https://estiqtab.hyrddbh.com/
     icon: https://estiqtab.hyrddbh.com/api/files?fileKey=3010465_uae-logo.jpeg
-  - name: Estiqtab API
+  - name: Estiqtab Cluster API
     url: https://estiqtab.hyrddbh.com/api/health-check
     icon: https://estiqtab.hyrddbh.com/api/files?fileKey=3010465_uae-logo.jpeg
+  - name: Federaljobs
+    url: https://federaljobs.gov.ae/
+    icon: https://federaljobs.gov.ae/api/files?fileKey=6808748_fahr-favicon.png
+  - name: Federaljobs API
+    url: https://federaljobs.gov.ae/api/health-check
+    icon: https://federaljobs.gov.ae/api/files?fileKey=6808748_fahr-favicon.png
   - name: WizHRD
     url: https://jobs.wizhrd.co/
     icon: https://jobs.wizhrd.co/api/files?fileKey=7383629_favico.png
@@ -120,6 +126,12 @@ sites:
   - name: Ejada API
     url: https://ejada.hyrddbh.com/api/health-check
     icon: https://ejada.hyrddbh.com/api/files?fileKey=4413019_favicon%20(3).ico
+  - name: London
+    url: https://london.hyrdd.io/
+    icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
+  - name: London API
+    url: https://london.hyrdd.io/api/health-check
+    icon: https://london.hyrdd.io/api/files?fileKey=7077379_favicon.ico
   - name: tokyo
     url: https://tokyo.hyrdd.io/
     icon: https://tokyo.hyrdd.io/api/files?fileKey=1677195_favicon.ico
@@ -186,8 +198,73 @@ sites:
   - name: SPARK API
     url: https://career.spark.sa/api/health-check
     icon: https://career.spark.sa/api/files?fileKey=2709238_logo-lan.png
-    
-#
+  - name: Fahr
+    url: https://fahr.federaljobs.gov.ae/
+    icon: https://fahr.federaljobs.gov.ae/api/files?fileKey=1035833_spinner-logo.png
+  - name: Fahr API
+    url: https://fahr.federaljobs.gov.ae/api/health-check
+    icon: https://fahr.federaljobs.gov.ae/api/files?fileKey=1035833_spinner-logo.png
+  - name: TAQA
+    url: https://taqa.hyrddsa.com/
+    icon:
+  - name: TAQA API
+    url: https://taqa.hyrddsa.com/api/health-check
+    icon:
+  - name: Tadco
+    url: https://tadco.hyrddsa.com/
+    icon: https://tadco.hyrddsa.com/api/files?fileKey=3400491_logo.png
+  - name: Tadco API
+    url: https://tadco.hyrddsa.com/api/health-check
+    icon: https://tadco.hyrddsa.com/api/files?fileKey=3400491_logo.png
+  - name: SMO
+    url: https://smo.hyrddsa.com/
+    icon: https://smo.hyrddsa.com/api/files?fileKey=4267897_Screen%20Shot%202022-04-07%20at%208.21.53%20PM.png
+  - name: SMO API
+    url: https://smo.hyrddsa.com/api/health-check
+    icon: https://smo.hyrddsa.com/api/files?fileKey=4267897_Screen%20Shot%202022-04-07%20at%208.21.53%20PM.png
+  - name: Saudicatering 
+    url: https://saudicatering.hyrddsa.com/
+    icon: https://saudicatering.hyrddsa.com/api/files?fileKey=1886367_saudi-airlines-catering%20(1).png
+  - name: Saudicatering  API
+    url: https://saudicatering.hyrddsa.com/api/health-check
+    icon: https://saudicatering.hyrddsa.com/api/files?fileKey=1886367_saudi-airlines-catering%20(1).png
+  - name: Kabi 
+    url: https://career.kabi.jeddah.hyrdd.io/
+    icon: https://career.kabi.jeddah.hyrdd.io/api/files?fileKey=4960415_favicon.ico
+  - name: Kabi API
+    url: https://career.kabi.jeddah.hyrdd.io/api/health-check
+    icon: https://career.kabi.jeddah.hyrdd.io/api/files?fileKey=4960415_favicon.ico
+  - name: HRA
+    url: https://hra.hyrddbh.com/
+    icon: https://hra.hyrddbh.com/api/files?fileKey=4022944_wight.png
+  - name: HRA API
+    url: https://hra.hyrddbh.com/api/health-check
+    icon: https://hra.hyrddbh.com/api/files?fileKey=4022944_wight.png
+  - name: Mewa
+    url: https://mewa.hyrddsa.com/
+    icon: https://mewa.hyrddsa.com/api/files?fileKey=4344767_favicon%20(1).ico
+  - name: Mewa API
+    url: https://mewa.hyrddsa.com/api/health-check
+    icon: https://mewa.hyrddsa.com/api/files?fileKey=4344767_favicon%20(1).ico
+  - name: Tsfe
+    url: https://tsfe.hyrddbh.com
+    icon: https://tsfe.hyrddbh.com/api/files?fileKey=9174307_tsfefavicon2.png
+  - name: Tsfe API
+    url: https://tsfe.hyrddbh.com/api/health-check
+    icon: https://tsfe.hyrddbh.com/api/files?fileKey=9174307_tsfefavicon2.png
+  - name: KSMC
+    url: https://careers.ksmc.med.sa/
+    icon:
+  - name: KSMC API
+    url: https://careers.ksmc.med.sa/api/health-check
+    icon:
+  - name: Tkh
+    url: https://tkh.hyrddbh.com
+    icon: 
+  - name: tkh API
+    url: https://tkh.hyrddbh.com/api/health-check
+    icon: 
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
