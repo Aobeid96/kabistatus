@@ -45,9 +45,6 @@ sites:
   - name: FTA
     url: https://fta.federaljobs.gov.ae/
     icon: https://fta.federaljobs.gov.ae/api/files?fileKey=2456650_bd68e7e9-a85f-48f2-aa4e-e381e88cd46a.png
-  - name: FTA API
-    url: https://fta.federaljobs.gov.ae/api/health-check
-    icon: https://fta.federaljobs.gov.ae/api/files?fileKey=2456650_bd68e7e9-a85f-48f2-aa4e-e381e88cd46a.png
   - name: Ghadeer
     url: https://ghadeer.tech/
     icon: https://ghadeer.tech/api/files?fileKey=9902245_fav-ghadeer.png
@@ -266,12 +263,12 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kabi.ai
-  name: Status 
+  name: Systems 
   logoUrl: https://kabi.ai/images/kabi-home/logo.svg
   favicon: https://career.kabi.jeddah.hyrdd.io/api/files?fileKey=4960415_favicon.ico
   theme: night
   #baseUrl: /kabistatus
-  introTitle: "Live System status"
+  introTitle: "KABI Live System Status"
   navbar:
     - title: Status
       href: /
