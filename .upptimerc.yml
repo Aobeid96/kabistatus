@@ -201,9 +201,6 @@ sites:
   - name: Fahr
     url: https://fahr.federaljobs.gov.ae/
     icon: https://fahr.federaljobs.gov.ae/api/files?fileKey=1035833_spinner-logo.png
-  - name: Fahr API
-    url: https://fahr.federaljobs.gov.ae/api/health-check
-    icon: https://fahr.federaljobs.gov.ae/api/files?fileKey=1035833_spinner-logo.png
   - name: TAQA
     url: https://taqa.hyrddsa.com/
     icon:
