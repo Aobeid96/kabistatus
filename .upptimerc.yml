@@ -246,12 +246,12 @@ sites:
   - name: Tsfe API
     url: https://tsfe.hyrddbh.com/api/health-check
     icon: https://tsfe.hyrddbh.com/api/files?fileKey=9174307_tsfefavicon2.png
-  # - name: KSMC
-  #   url: https://careers.ksmc.med.sa/
-  #   icon:
-  # - name: KSMC API
-  #   url: https://careers.ksmc.med.sa/api/health-check
-  #   icon:
+  - name: KSMC
+    url: ksmc.hyrddsa.com/
+    icon:
+  - name: KSMC API
+    url: ksmc.hyrddsa.com/api/health-check
+    icon:
   - name: Tkh
     url: https://tkh.hyrddbh.com
     icon: 
