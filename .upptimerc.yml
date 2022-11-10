@@ -248,10 +248,10 @@ sites:
     icon: https://tsfe.hyrddbh.com/api/files?fileKey=9174307_tsfefavicon2.png
   - name: KSMC
     url: careers.ksmc.med.sa/
-    icon:
+    icon: https://careers.ksmc.med.sa/api/files?fileKey=5384775_loading-logo.png
   - name: KSMC API
     url: careers.ksmc.med.sa/api/health-check
-    icon:
+    icon: https://careers.ksmc.med.sa/api/files?fileKey=5384775_loading-logo.png
   - name: Tkh
     url: https://tkh.hyrddbh.com
     icon: 
