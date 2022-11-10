@@ -423,11 +423,11 @@
     "icon": "https://federaljobs.gov.ae/api/files?fileKey=6808748_fahr-favicon.png",
     "slug": "federaljobs-api",
     "status": "down",
-    "uptime": "89.23%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "89.23%",
+    "uptime": "89.41%",
+    "uptimeDay": "89.41%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "89.41%",
+    "uptimeYear": "89.41%",
     "time": 305,
     "timeDay": 305,
     "timeWeek": 305,
@@ -901,18 +901,18 @@
     "icon": "https://tabukpharmaceuticals.hyrddsa.com/api/files?fileKey=4641640_favicon.png",
     "slug": "tabukpharmaceuticals-api",
     "status": "up",
-    "uptime": "94.87%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "94.87%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "94.87%",
+    "uptime": "94.79%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "94.79%",
     "time": 180,
     "timeDay": 180,
     "timeWeek": 180,
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2022-11-10": 42
+      "2022-11-10": 43
     }
   },
   {
@@ -1281,18 +1281,18 @@
     "icon": "https://smo.hyrddsa.com/api/files?fileKey=4267897_Screen%20Shot%202022-04-07%20at%208.21.53%20PM.png",
     "slug": "smo-api",
     "status": "up",
-    "uptime": "15.18%",
-    "uptimeDay": "15.18%",
-    "uptimeWeek": "15.18%",
-    "uptimeMonth": "15.18%",
-    "uptimeYear": "15.18%",
+    "uptime": "14.90%",
+    "uptimeDay": "14.90%",
+    "uptimeWeek": "14.90%",
+    "uptimeMonth": "14.90%",
+    "uptimeYear": "14.90%",
     "time": 154,
     "timeDay": 154,
     "timeWeek": 154,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-11-10": 37
+      "2022-11-10": 38
     }
   },
   {
@@ -1492,7 +1492,7 @@
     "timeMonth": 825,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2022-11-10": 5
+      "2022-11-10": 6
     }
   },
   {
@@ -1512,7 +1512,7 @@
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-11-10": 4
+      "2022-11-10": 5
     }
   },
   {
